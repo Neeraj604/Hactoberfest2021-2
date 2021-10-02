@@ -9,6 +9,7 @@ int gcd(int, int);
 
 int main()
 {
+    clrscr();
     int n, d, i;
     printf("Enter the size of array ");
     scanf("%d", &n);
